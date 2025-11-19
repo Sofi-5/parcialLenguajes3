@@ -1,4 +1,4 @@
-\# Gramática en forma BNF
+# Gramática en forma BNF
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-\# Gramática atribuida
+# Gramática atribuida
 
 
 
@@ -45,4 +45,5 @@ Asignacion → ID = dot ( ID₁ , ID₂ ) ;
 &nbsp;            TablaSimbolos.agregar(ID.lex, tipo="escalar");
 
 &nbsp;          }
+
 
