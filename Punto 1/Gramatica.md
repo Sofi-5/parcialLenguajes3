@@ -1,4 +1,4 @@
-\# Estructura básica:
+# Estructura básica:
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-\# Gramática Atribuida
+# Gramática Atribuida
 
 
 
@@ -127,4 +127,5 @@ Asignaciones → ID = VALOR
 ListaValores → VALOR { ListaValores.cantidad = 1; }
 
 &nbsp;            | VALOR , ListaValores₂ { ListaValores.cantidad = 1 + ListaValores₂.cantidad; }
+
 
